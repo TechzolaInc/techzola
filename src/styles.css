@@ -1,1 +1,41 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/purple-green.css';
+@import '~primeng/resources/themes/cruze/theme.css';
+@import '~primeng/resources/primeng.min.css';
+.project-card{
+  background-color: #2b2a2a;
+}
+
+.headerDetails{
+  margin-left: 160px;
+}
+
+.form {
+  width: 500px;
+}
+
+.full-width {
+  width: 100%;
+}
+.contactFormContainer{
+  margin-left: 20em;
+}
+
+body{
+  background-color: #1a1a1a;
+}
+
+.employee{
+  background-color: #1a1a1a;
+}
+
+#description{
+  font-size: 1em;
+}
+
+#cardTitle{
+  margin-left: 7em;
+}
+
+.col-cards{
+  margin-bottom: 7px;
+}
